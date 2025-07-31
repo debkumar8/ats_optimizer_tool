@@ -38,5 +38,15 @@ This application uses **Google's Gemini Pro LLM** to:
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/debkumar8/ats_optimizer_tool
+cd smart_ats_tracker
+
 
